@@ -74,3 +74,13 @@ rm -rf %{buildroot}
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/pixmaps/%{name}.png
 
+
+
+%changelog
+* Thu Sep 01 2011 Andrey Bondrov <abondrov@mandriva.org> 1.71-1
++ Revision: 697695
+- imported package ardentryst
+
+
+* Thu Sep 01 2011 Andrey Bondrov <bondrov@math.dvgu.ru> 1.71-1mdv2010.2
+- Packaged Ardentryst
