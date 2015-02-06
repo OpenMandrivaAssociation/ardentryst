@@ -1,7 +1,7 @@
 Name:		ardentryst
 Summary:	Action/RPG sidescoller
 Version:        1.71
-Release:        %mkrel 1
+Release:        2
 License:        GPLv3
 Source:         %{name}%{version}.tar.gz
 Group:		Games/Adventure
