@@ -5,7 +5,7 @@ Release:        2
 License:        GPLv3
 Source:         %{name}%{version}.tar.gz
 Group:		Games/Adventure
-Url:            http://jordan.trudgett.com/
+Url:            https://jordan.trudgett.com/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:	noarch
 BuildRequires:	python
